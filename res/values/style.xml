@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="global" parent="@android:style/Theme.Light">
+        <item name="android:windowBackground">@drawable/twitterbg</item>
+    </style>
+
+    <style name="title">
+        <item name="android:textSize">30dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="activity">
+        <item name="android:background">@drawable/twitterbg</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+
+    <style name="button">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_gravity">right|center_vertical</item>
+        <item name="android:textSize">25dp</item>
+        <item name="android:textColor">#fddd</item>
+    </style>
+
+    <style name="editbox">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent  </item>
+        <item name="android:background">#cfff</item>
+        <item name="android:layout_gravity">left|center_vertical</item>
+        <item name="android:layout_weight">1</item>
+
+    </style>
+    
+    <style name="rowText" >
+
+        <item name="android:textSize">15dp</item>
+
+    </style>
+
+</resources>

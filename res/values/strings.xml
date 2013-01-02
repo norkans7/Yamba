@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yamba</string>
+    <string name="titleStatus">Status Update</string>
+    <string name="buttonUpdate">Update</string>
+    <string name="hintText">Please enter your 140-character status</string>
+    <string name="msgStatusUpdatedSuccessfully">Status Updated Successfully</string>
+    <string name="msgStatusUpdateFailed">Status Update Failed</string>
+    <string name="username">Username</string>
+    <string name="usernameSummary">Please enter your username</string>
+    <string name="password">Password</string>
+    <string name="passwordSummary">Please enter your password</string>
+    <string name="server">Server</string>
+    <string name="serverSummary">Please enter the server URL</string>
+    <string name="titlePrefs">Preferences</string>
+    <string name="titleTimeline">Timeline</string>
+    <string name="msgPleaseWaitWhilePosting">Please wait while posting</string>
+    <string name="titleServiceStart">Start Service</string>
+    <string name="titleServiceStop">Stop Service</string>
+    <string name="titlePurge">Purge</string>
+    <string name="msgAllDataPurged">All data has been purged</string>
+    <string name="msgSetupPrefs">Please enter the username, password and server to use</string>
+    <string name="titleStartAtBoot">Start at boot</string>
+    <string name="startAtBootSummary">Should service start at boot?</string>
+</resources>

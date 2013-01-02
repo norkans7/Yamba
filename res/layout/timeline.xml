@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              style="@style/activity">
+
+    <TextView
+            android:text="@string/titleTimeline"
+            style="@style/title"/>
+     <ListView style="@style/editbox" android:id="@+id/listStatus"
+               android:cacheColorHint="#cfff"/>
+
+
+
+</LinearLayout>
